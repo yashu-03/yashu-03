@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashu-03
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C basic 
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning C (basic). 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - yadavyashasvi007@gmail.com
 
