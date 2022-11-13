@@ -1,6 +1,6 @@
 - 👋 Hi, I am Yashasvi Yadav.
 - 👀 I am a Cyber Security enthusiast.
-- 🌱 I can code in C,C++. 
+- 🌱 I can code in C,C++,HTML,CSS..
 - 📫 How to reach me - yadavyashasvi007@gmail.com
 
 <!---
