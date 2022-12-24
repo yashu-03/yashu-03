@@ -10,7 +10,6 @@ Hi, I am Yashasvi Yadav.<br>I am a Cyber Security enthusiast.<br>I can code in C
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yashu-03&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashu-03&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashu-03&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashu-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
