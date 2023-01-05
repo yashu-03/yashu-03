@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Yashasvi Yadav.<br>I am a Cyber Security enthusiast.<br>I can code in C, C++, HTML, and CSS.<br>How to reach me - yadavyashasvi007@gmail.com<br>
+Hi, I am Yashasvi Yadav.<br>I am a Cyber Security enthusiast.<br>I am experienced in C, C++, HTML, CSS, JS.<br>How to reach me - yadavyashasvi007@gmail.com<br>
 
 
 ## 🌐 Socials:
