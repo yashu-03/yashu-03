@@ -14,8 +14,5 @@ Hi, I am Yashasvi Yadav.<br>I am a Cyber Security enthusiast.<br>I am experience
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashu-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Yashasvi007) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Yashasvi007) 
