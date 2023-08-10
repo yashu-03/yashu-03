@@ -15,8 +15,11 @@ Aspiring Cyber Security Enthusiast with a robust academic background in Computer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashu-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+## Visit count
 [![](https://visitcount.itsvg.in/api?id=yashu-03&icon=0&color=9)](https://visitcount.itsvg.in) 
 
   ## 💰 My PayPal
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Yashasvi007) 
+
+## Snake eating my contribution graph 
+![snake gif](https://github.com/yashu-03/yashu-03/blob/output/github-contribution-grid-snake.gif)
