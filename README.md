@@ -20,6 +20,3 @@ Aspiring Cyber Security Enthusiast with a robust academic background in Computer
 
   ## 💰 My PayPal
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Yashasvi007) 
-
-## Snake eating my contribution graph 
-![snake gif](https://github.com/yashu-03/yashu-03/blob/output/github-contribution-grid-snake.gif)
