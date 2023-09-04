@@ -19,4 +19,4 @@ Aspiring Cyber Security Enthusiast with a robust academic background in Computer
 [![](https://visitcount.itsvg.in/api?id=yashu-03&icon=0&color=9)](https://visitcount.itsvg.in) 
 
   ## 💰 My PayPal
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Yashasvi007) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Yashasvi07) 
