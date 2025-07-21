@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cyber Security Enthusiast with an academic background in Computer Science Engineering (Digital Forensics & Cyber Security)
+Cyber Security Professional with an academic background in Computer Science Engineering (Digital Forensics & Cyber Security)
 
 
 ## 🌐 Socials:
